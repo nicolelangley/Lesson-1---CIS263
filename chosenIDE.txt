@@ -1,0 +1,4 @@
+For this course I decided to go with IntelliJ IDE. I have used other IDEs in the past for other languages that I really liked the features of - like Visual Studio.
+I picked this one in hopes it would have more user friendly features then Eclipse. After reading about multiple IDEs for this class, IntelliJ came up on multiple lists
+and I really like what I was reading about it. Even just playing around with it and getting GitHub linked to it was easy and user friendly. I hope I made the right choice
+in choosing to learn a new IDE vs using Eclipse that I have used before.
