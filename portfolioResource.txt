@@ -1,0 +1,7 @@
+Using GitHub is a great strategy for showing skills to potential employers. Regularly committing my projects to GitHub, I will be able to build a comprehensive record in the tech industry.
+I can start by creating repositories for all my projects in school which will also help keep my code organized and well documented. Having the README file included is also helpful to help explain 
+the purpose of the project and any other relevant information. This all demonstrates to others my coding ability as well as attention to detail. 
+
+GitHub also allows me to collaborate with others, which is extremely valuable to me and future employers. Contributing to open-source projects or participating in group assignments shows that 
+I can work effectively in a team. As time goes on, GitHub will become a living resume and that is so valuable. When applying for jobs, I can share this profile with potential employers, giving them 
+direct access to my work and hopefully setting me apart from other candidates.
